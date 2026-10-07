@@ -1,0 +1,3 @@
+-r requirements.txt
+kaggle>=1.6
+pytest>=8.0
