@@ -3,5 +3,6 @@ __pycache__/
 *.pyc
 data/
 models/
+reports/
 .pytest_cache/
 kaggle.json
